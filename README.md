@@ -5,5 +5,6 @@ The Admin Can add or alter shows and Cancel the login credentials of any Custome
 <h3>Technologies Used:</h3>
  1. HTML<br>
  2. CSS <br>
- 3. Bootstrap<br>
- 4. PHP<br>
+ 3. Javascript <br>
+ 4. Bootstrap<br>
+ 5. PHP<br>
